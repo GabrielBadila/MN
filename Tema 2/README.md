@@ -4,10 +4,10 @@
 	Metode Numerice
 
 
-   Tema 2 - Vectori si valori proprii
+   	Tema 2 - Vectori si valori proprii
    
-   Badila Gabriel Alin
-   313 CA
+   	Badila Gabriel Alin
+   	313 CA
    
    
 DESCRIERE
