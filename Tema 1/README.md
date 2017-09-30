@@ -1,9 +1,12 @@
+# Fun with matrices (Romanian language)
 
-   Tema 1 - Criptografie si matrice
+
+	Metode Numerice
+	
+   	Tema 1 - Criptografie si matrice
    
-   
-   Badila Gabriel Alin
-   313 CA
+   	Badila Gabriel Alin
+   	313 CA
    
    
 DESCRIERE
