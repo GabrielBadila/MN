@@ -3,7 +3,6 @@
 
 	Metode Numerice
 
-
    	Tema 2 - Vectori si valori proprii
    
    	Badila Gabriel Alin
