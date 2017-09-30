@@ -1,4 +1,4 @@
-# Fun with matrices (Romanian language)
+# Criptografie si matrice (Romanian language)
 
 
 	Metode Numerice
